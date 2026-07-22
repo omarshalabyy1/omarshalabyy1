@@ -1,48 +1,86 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Omar Shalaby
-=====================================================================================================================================
-
-Data Analyst | BI Developer
----------------------------
-
-I'm a Data Analyst and BI Developer passionate about transforming raw data into meaningful business insights through scalable analytics solutions.
-
-My primary focus is Business Intelligence using Power BI, SQL, Excel, and Python. I enjoy designing data models, building interactive dashboards, automating ETL workflows, and developing reporting solutions that help organizations make data-driven decisions.
-
-On this GitHub, you'll find portfolio projects covering:
-
-\- 📊 Power BI dashboards and business intelligence solutions
-
-\- 🗄️ SQL data warehousing and dimensional modeling
-
-\- 🔄 ETL and data transformation pipelines
-
-\- 📈 Data analysis and business reporting
-
-\- 🐍 Python automation and data processing
-
-\- 📑 Excel reporting and dashboard automation
-
-I'm continuously improving my skills in Microsoft's data platform and building production-quality projects focused on real-world business scenarios across retail, e-commerce, finance, operations, supply chain, and CRM.
-
-My goal is to build scalable, maintainable, and business-focused analytics solutions while growing as a Business Intelligence and Analytics professional.
-
-* 🌍  I'm based in Cairo, Egypt
-* ✉️  You can contact me at [omarshalaby.data@gmail.com](mailto:omarshalaby.data@gmail.com)
-* 🧠  I'm currently learning Microsoft Fabric, Advanced DAX, Data Warehousing, Analytics Engineering, and Power BI Performance Optimization
-* 👥  I'm looking to collaborate on Power BI, SQL, Data Analytics, ETL Automation, Dashboard Development, and Open-Source BI Projects
-* 💬  Ask me about Passionate about building scalable Business Intelligence solutions that turn data into actionable business insights.
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1F4E79,100:0B6EFD&text=Omar%20Shalaby&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer&descAlignY=60"/>
 </p>
 
-### Socials
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;BI+Developer;Power+BI+Specialist;SQL+Developer;Dashboard+Developer;Business+Intelligence"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/omarshalaby1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/omarshalaby1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/omarshalaby1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/omarshalaby1?logo=github&style=for-the-badge&color=6366f1&labelColor=312e81" /></a>
-### Badges
+<p align="center">
+<img width="450" src="[YOUR_GIF_URL](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZxa3hzdThtYmVidWpsNm94YnkwMGF2Z3p5NXdyYXYxaGV1dG03MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)">
+</p>
 
-<b>My GitHub Stats</b>
+# 💫 About Me
 
-<a href="http://www.github.com/omarshalaby1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omarshalaby1&stroke=ffffff&background=312e81&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+I'm a **Data Analyst** and **BI Developer** passionate about building Business Intelligence solutions that help organizations transform data into actionable insights.
+
+## 🚀 What I Do
+- 📊 Build interactive **Power BI** dashboards
+- 🗄️ Design scalable **SQL** databases & data warehouses
+- 🔄 Automate **ETL/ELT** and reporting workflows
+- 📈 Develop KPI dashboards and executive reports
+- 🧩 Design efficient data models for analytics
+
+## 💼 Services
+- Power BI Dashboard Development
+- Business Intelligence Solutions
+- SQL Development & Data Analysis
+- ETL & Reporting Automation
+- Data Modeling & Data Warehousing
+- Excel Dashboard & Reporting Automation
+
+## 🛠️ Tech Stack
+**Power BI** • **SQL** • **Excel** • **Python** • **DAX** • **Power Query** • **SQL Server** • **Git**
+
+## 🌱 Currently Learning
+- Microsoft Fabric
+- Analytics Engineering
+- Advanced DAX
+- Power BI Performance Optimization
+
+## 🤝 Open to Collaborate On
+- Business Intelligence Projects
+- Power BI Development
+- SQL & Data Warehousing
+- Data Analytics
+- ETL Automation
+
+## 📌 What You'll Find Here
+- 📊 Power BI Dashboards
+- 🏗️ SQL Data Warehouse Projects
+- 🔄 ETL & Data Pipelines
+- 📈 Excel Automation
+- 🐍 Python Data Analytics
+- 📚 Real-World Business Case Studies
+
+## 🎯 Mission
+Helping businesses automate reporting, improve operational visibility, and make faster, data-driven decisions through scalable Business Intelligence solutions.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omarshalaby1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarshalaby.data@gmail.com) 
+
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=omarshalaby1&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=omarshalaby1&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=omarshalaby1&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omarshalaby1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omarshalaby1&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=omarshalaby1&icon=9&color=1)](https://visitcount.itsvg.in)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
