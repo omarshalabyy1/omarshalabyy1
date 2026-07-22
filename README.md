@@ -269,56 +269,118 @@ Example
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
 
-# 🌱 Currently Learning
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D91,50:1565C0,100:42A5F5"/>
 
-- Microsoft Fabric
-- Analytics Engineering
-- Advanced DAX
-- Enterprise Data Warehousing
-- Power BI Performance Optimization
-- Modern Data Platform Architecture
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=0:0B3D91,100:42A5F5"/>
 
----
+# 🎯 Business Challenges I Solve
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
+<table>
+<tr>
+<td width="50%">
 
-# 🏢 Industries
+### 📑 Reporting & Automation
+- ⚡ Automate manual reporting
+- 📊 Replace spreadsheets with interactive dashboards
+- 🔄 Eliminate repetitive reporting tasks
+- 📁 Consolidate scattered business data
 
-🚗 Automotive
+</td>
 
-🛒 Retail
+<td width="50%">
 
-📦 Supply Chain
+### 📈 Business Intelligence
+- 📌 Executive KPI Dashboards
+- 🧩 Scalable Data Models
+- 📊 Self-Service Analytics
+- 🚀 Faster Decision-Making
 
-💰 Finance
+</td>
+</tr>
+</table>
 
-📈 Sales
+<details>
+<summary><b>💡 Typical Business Pain Points</b></summary>
 
-📣 Marketing
+- ❌ Manual Excel reporting
+- ❌ Disconnected data sources
+- ❌ Slow reporting cycles
+- ❌ Inconsistent KPIs
+- ❌ Poor operational visibility
+- ❌ Time-consuming reporting
+- ❌ Data quality issues
+- ❌ Lack of executive dashboards
 
-👥 Human Resources
-
-📦 Distribution
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
-
-# 📌 Professional Goals
-
-✔ Deliver production-ready BI solutions
-
-✔ Build scalable analytics platforms
-
-✔ Automate business reporting
-
-✔ Create executive dashboards
-
-✔ Help organizations make data-driven decisions
+</details>
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D91,50:1565C0,100:42A5F5"/>
+
+# 💼 Business Solutions
+
+| 💡 Solution | 📈 Business Outcome |
+|-------------|---------------------|
+| 📊 Executive KPI Dashboards | Faster strategic decisions |
+| 📈 Power BI Dashboards | Interactive business insights |
+| 🗄 SQL Database Development | Reliable centralized data |
+| 🏗 Data Warehousing | Scalable analytics platform |
+| 🔄 ETL / ELT Pipelines | Automated data processing |
+| ⚡ Excel Automation | Reduced manual effort |
+| 🧩 Data Modeling | Accurate and consistent reporting |
+| 📉 Operational Analytics | Improved business performance |
+| 📦 Inventory Analytics | Better stock visibility |
+| 💰 Sales & Financial Analytics | Revenue and profitability insights |
+| 👥 Customer Analytics | Better customer understanding |
+| 📣 Marketing Analytics | Campaign performance tracking |
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D91,50:1565C0,100:42A5F5"/>
+
+# 🚀 Business Value Delivered
+
+<div align="center">
+
+| 🚀 | |
+|:---:|---|
+| ⚡ | **Automate** reporting workflows |
+| 📊 | **Accelerate** reporting cycles |
+| 🗄 | **Centralize** business data |
+| 📈 | **Improve** reporting performance |
+| 🎯 | **Standardize** KPIs & data models |
+| 👥 | **Enable** self-service analytics |
+| 💡 | **Deliver** actionable business insights |
+| 📉 | **Support** faster, data-driven decisions |
+
+</div>
+
+---
+
+<p align="center">
+
+### 💙 Turning Business Data Into Business Value
+
+<img src="https://img.shields.io/badge/Power_BI-Dashboard_Development-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-Data_Modeling-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-Reporting_Automation-107C41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-ETL_Automation-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+
+</p>
+
+![](https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/SQL-Development-1565C0?style=flat-square)
+![](https://img.shields.io/badge/Data_Warehouse-Design-0B3D91?style=flat-square)
+![](https://img.shields.io/badge/ETL-Automation-1E88E5?style=flat-square)
+![](https://img.shields.io/badge/Excel-Automation-107C41?style=flat-square)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D91,50:1565C0,100:42A5F5"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
+
+<p align="center">
+<img width="700" src="Y[OUR_POWER_BI_GIF_HERE](https://i.pinimg.com/originals/a0/f8/5c/a0f85c35e406acb5b84c13dae888d5a3.gif)">
+</p>
 
 # 🤝 Let's Connect
 
