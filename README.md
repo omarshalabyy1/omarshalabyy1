@@ -1,470 +1,144 @@
-<!-- ========================================================= -->
-<!--                     GITHUB PROFILE README                  -->
-<!-- ========================================================= -->
-
-<!--
-===============================================================
-TODO LIST
-===============================================================
-
-1. Replace YOUR_GIF_URL with your dashboard animation GIF.
-2. Replace YOUR_PORTFOLIO_URL with your portfolio website (or GitHub Pages).
-3. Replace YOUR_LINKEDIN_URL with your LinkedIn profile.
-4. Replace YOUR_RESUME_URL with your online CV (optional).
-5. Update GitHub username if needed.
-6. Add real repositories as you build them.
-
-===============================================================
--->
-
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B3D91,50:1565C0,100:42A5F5&text=Omar%20Shalaby&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20•%20Business%20Intelligence%20Developer&descAlignY=60"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Omar%20Shalaby&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=AI%20%26%20Data%20Engineer&descAlignY=56&descSize=20&animation=fadeIn" alt="Omar Shalaby, AI and Data Engineer">
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=42A5F5&center=true&vCenter=true&width=900&lines=Turning+Business+Data+Into+Actionable+Insights;Power+BI+Dashboard+Developer;Business+Intelligence+Solutions;SQL+Developer;Data+Analytics+%7C+ETL+Automation;Helping+Businesses+Make+Data-Driven+Decisions"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Data+pipelines+and+warehouses;RAG+and+AI+agents+on+your+data;Automation+that+removes+manual+work;Power+BI+dashboards+leaders+use" alt="Data pipelines, RAG and AI agents, automation, Power BI dashboards">
 </p>
-
-<!-- ========================================================= -->
-<!--                 Replace With Your GIF                      -->
-<!-- ========================================================= -->
 
 <p align="center">
-
-<img width="750" src="[YOUR_GIF_URL](https://i.pinimg.com/originals/a0/f8/5c/a0f85c35e406acb5b84c13dae888d5a3.gif)">
-
+  <a href="https://www.linkedin.com/in/omarshalaby1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:omarshalaby.data@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Cairo,_Egypt-2C5364?style=for-the-badge" alt="Cairo, Egypt">
 </p>
 
-<!-- Example GIF ideas
-
-Power BI Dashboard animation
-Analytics Dashboard
-Business Intelligence
-Data Visualization
-Excel Dashboard
-Microsoft Fabric
-
--->
-
 ---
 
-# 💼 Business Intelligence & Data Analytics
-
-I'm a **Data Analyst** and **Business Intelligence Developer** specializing in transforming raw business data into meaningful insights through modern reporting, analytics, and automation solutions.
-
-I help organizations eliminate manual reporting, improve operational visibility, and make faster, data-driven decisions by designing scalable Business Intelligence solutions using **Power BI, SQL, Excel, Python, and Data Warehousing**.
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
-
-# 🚀 How I Help Businesses
-
-✔ Build Executive KPI Dashboards
-
-✔ Transform Excel Reports into Interactive Power BI Dashboards
-
-✔ Design Scalable SQL Databases & Data Warehouses
-
-✔ Develop Automated ETL / ELT Pipelines
-
-✔ Automate Excel Reporting Workflows
-
-✔ Improve Reporting Performance & Data Quality
-
-✔ Build Interactive Self-Service BI Solutions
-
-✔ Reduce Manual Reporting & Operational Overhead
-
-✔ Create Business Reports that Support Better Decision-Making
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
-
-# 💡 Services
-
-📊 Power BI Dashboard Development
-
-📈 Executive KPI Dashboards
-
-📉 Business Intelligence Solutions
-
-🗄 SQL Development
-
-🏗 Data Warehouse Design
-
-🔄 ETL / ELT Development
-
-⚡ Excel Automation
-
-📁 Python Automation
-
-📦 Inventory Analytics
-
-👥 HR Analytics
-
-📣 Marketing Analytics
-
-🛒 Retail & E-Commerce Analytics
-
-🚗 Automotive Service Analytics
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
-
-# 📂 Featured Portfolio Projects
-
-🚗 Bosch Car Service Business Intelligence Platform
-
-📊 Executive Sales Dashboard
-
-📦 Inventory & Supply Chain Analytics
-
-💰 Financial Performance Dashboard
-
-📈 Power BI KPI Dashboard
-
-🏪 Retail Analytics Platform
-
-🛒 E-Commerce Analytics
-
-📋 Excel Reporting Automation
-
-🏗 SQL Data Warehouse
-
-🔄 Automated ETL Pipeline
-
-<!--
-TODO
-
-Replace these with repository links later.
-
-Example
-
-[Power BI Sales Dashboard](repo link)
-
--->
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
-
-# ⚙ Core Expertise
-
-- Business Intelligence
-- Power BI
-- SQL
-- Data Analytics
-- Data Visualization
-- Dashboard Development
-- Data Warehousing
-- ETL / ELT
-- Data Modeling
-- DAX
-- Power Query
-- Reporting Automation
-- Analytics Engineering
-- Excel Automation
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
-
-# 🛠 Technology Stack
-
-## 📊 Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-1565C0?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-0B3D91?style=for-the-badge)
-![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-42A5F5?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E88E5?style=for-the-badge)
-
----
-
-## 📈 Microsoft Excel
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge)
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-1565C0?style=for-the-badge)
-![Advanced Formulas](https://img.shields.io/badge/Advanced_Formulas-42A5F5?style=for-the-badge)
-![VBA](https://img.shields.io/badge/VBA-1E88E5?style=for-the-badge)
-![Macros](https://img.shields.io/badge/Macros-0B3D91?style=for-the-badge)
-
----
-
-## 🗄 Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-1565C0?style=for-the-badge)
-
----
-
-## 🏗 Data Warehousing & Analytics Engineering
-
-![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-1565C0?style=for-the-badge)
-![Star Schema](https://img.shields.io/badge/Star_Schema-0B3D91?style=for-the-badge)
-![Snowflake Schema](https://img.shields.io/badge/Snowflake_Schema-42A5F5?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL-1E88E5?style=for-the-badge)
-![ELT](https://img.shields.io/badge/ELT-1976D2?style=for-the-badge)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge)
-![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
----
-
-## 🐍 Python & Analytics
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
----
-
-## 🧹 Data Preparation
-
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-0B3D91?style=for-the-badge)
-![Data Transformation](https://img.shields.io/badge/Data_Transformation-1565C0?style=for-the-badge)
-![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-1976D2?style=for-the-badge)
-![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-42A5F5?style=for-the-badge)
-
----
-
-## 🌐 Automation & Web Scraping
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge)
-![Requests](https://img.shields.io/badge/Requests-1565C0?style=for-the-badge)
-
----
-
-## ⚙ Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## ☁ Microsoft Ecosystem
-
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6B46C1?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D91,50:1565C0,100:42A5F5"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=0:0B3D91,100:42A5F5"/>
-
-# 🎯 Business Challenges I Solve
+### 👋 About me
+
+I help businesses turn scattered data into **reliable pipelines**, **AI that answers questions**, **automations that remove manual work**, and **dashboards leaders actually use**.
+
+🔧 Currently building production data pipelines for a retail data platform with Python, PostgreSQL and Apache Airflow.
+
+### 🎯 Client problems I solve
+
+| | Your problem | What I build | What you get |
+|:-:|---|---|---|
+| 🏗️ | Data is scattered across systems and the numbers don't match | A central warehouse with tested, governed pipelines | One source of truth everyone trusts |
+| 🧠 | Answers are buried in documents, PDFs and emails | A RAG assistant over your documents and data that cites its sources | Answers in one question, not hours of searching |
+| 🧠 | Reviews, tickets and feedback pile up unread | NLP pipelines for classification, sentiment and entity extraction | Issues and trends surface automatically |
+| ⚙️ | Staff copy data between systems and download reports by hand | Scheduled automations, API integrations and AI agents | Hours of repetitive work handed to software |
+| 📊 | Leadership waits on reports rebuilt by hand every week | Automated Power BI KPI dashboards | Reports refresh on their own and decisions come faster |
+| 📊 | Excel workbooks are slow, fragile and error-prone | Power Query, Power Pivot and VBA automation | Workbooks that refresh in one click |
+
+### 🧩 How it fits together
+
+```mermaid
+flowchart LR
+    S["Sources<br/>databases · APIs · web · documents"] --> D["🏗️ Data layer<br/>pipelines · warehouse"]
+    D --> A["🧠 AI layer<br/>RAG · agents · NLP"]
+    D --> I["📊 Insight layer<br/>Power BI · Excel"]
+    A --> W["⚙️ Automation layer<br/>workflows · integrations"]
+    W --> O["Business outcomes<br/>less manual work · faster decisions"]
+    I --> O
+```
+
+### 🛠️ What I work with
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📑 Reporting & Automation
-- ⚡ Automate manual reporting
-- 📊 Replace spreadsheets with interactive dashboards
-- 🔄 Eliminate repetitive reporting tasks
-- 📁 Consolidate scattered business data
+#### 🏗️ Data layer
+*Reliable data, ready for AI and reporting*
+
+- Batch and streaming pipelines with incremental loads
+- Warehouses in bronze, silver and gold layers with star-schema models
+- Airflow orchestration with retries, monitoring and backfills
+- Data quality tests, governance and lineage
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server">
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square" alt="dbt">
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square" alt="Azure Data Factory">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+#### 🧠 AI layer
+*Ask questions of your data and documents*
 
-### 📈 Business Intelligence
-- 📌 Executive KPI Dashboards
-- 🧩 Scalable Data Models
-- 📊 Self-Service Analytics
-- 🚀 Faster Decision-Making
+- Document ingestion, chunking and embedding pipelines
+- RAG with hybrid search, reranking and cited answers
+- AI agents with tool calling and memory
+- NLP: classification, sentiment, entity extraction, summarization
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy">
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square" alt="pgvector">
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant">
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ Automation layer
+*Hand repetitive work to software*
+
+- Scheduled Python workflows with monitoring and alerts
+- Browser automation and web scraping
+- API integrations that move data between systems
+- AI agents that read documents, extract data and trigger the next step
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+<img src="https://img.shields.io/badge/Beautiful_Soup-59666C?style=flat-square" alt="Beautiful Soup">
+<img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square" alt="REST APIs">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 Insight layer
+*Decisions from dashboards, not spreadsheets*
+
+- Power BI data models, DAX measures and KPI dashboards
+- Power Query for repeatable data shaping
+- Excel: Power Pivot, pivot tables and advanced formulas
+- Report automation with VBA and macros
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI">
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" alt="DAX">
+<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square" alt="Power Query">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel">
+<img src="https://img.shields.io/badge/Power_Pivot-217346?style=flat-square" alt="Power Pivot">
+<img src="https://img.shields.io/badge/VBA-217346?style=flat-square" alt="VBA">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>💡 Typical Business Pain Points</b></summary>
+### 🤝 Let's work together
 
-- ❌ Manual Excel reporting
-- ❌ Disconnected data sources
-- ❌ Slow reporting cycles
-- ❌ Inconsistent KPIs
-- ❌ Poor operational visibility
-- ❌ Time-consuming reporting
-- ❌ Data quality issues
-- ❌ Lack of executive dashboards
+Have a problem like the ones above? [Email me](mailto:omarshalaby.data@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/omarshalaby1/).
 
-</details>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D91,50:1565C0,100:42A5F5"/>
-
-# 💼 Business Solutions
-
-| 💡 Solution | 📈 Business Outcome |
-|-------------|---------------------|
-| 📊 Executive KPI Dashboards | Faster strategic decisions |
-| 📈 Power BI Dashboards | Interactive business insights |
-| 🗄 SQL Database Development | Reliable centralized data |
-| 🏗 Data Warehousing | Scalable analytics platform |
-| 🔄 ETL / ELT Pipelines | Automated data processing |
-| ⚡ Excel Automation | Reduced manual effort |
-| 🧩 Data Modeling | Accurate and consistent reporting |
-| 📉 Operational Analytics | Improved business performance |
-| 📦 Inventory Analytics | Better stock visibility |
-| 💰 Sales & Financial Analytics | Revenue and profitability insights |
-| 👥 Customer Analytics | Better customer understanding |
-| 📣 Marketing Analytics | Campaign performance tracking |
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D91,50:1565C0,100:42A5F5"/>
-
-# 🚀 Business Value Delivered
-
-<div align="center">
-
-| 🚀 | |
-|:---:|---|
-| ⚡ | **Automate** reporting workflows |
-| 📊 | **Accelerate** reporting cycles |
-| 🗄 | **Centralize** business data |
-| 📈 | **Improve** reporting performance |
-| 🎯 | **Standardize** KPIs & data models |
-| 👥 | **Enable** self-service analytics |
-| 💡 | **Deliver** actionable business insights |
-| 📉 | **Support** faster, data-driven decisions |
-
-</div>
-
----
-
-<p align="center">
-
-### 💙 Turning Business Data Into Business Value
-
-<img src="https://img.shields.io/badge/Power_BI-Dashboard_Development-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-Data_Modeling-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-Reporting_Automation-107C41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-ETL_Automation-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-
-</p>
-
-![](https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/SQL-Development-1565C0?style=flat-square)
-![](https://img.shields.io/badge/Data_Warehouse-Design-0B3D91?style=flat-square)
-![](https://img.shields.io/badge/ETL-Automation-1E88E5?style=flat-square)
-![](https://img.shields.io/badge/Excel-Automation-107C41?style=flat-square)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D91,50:1565C0,100:42A5F5"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1565C0,100:42A5F5"/>
-
-<p align="center">
-<img width="700" src="Y[OUR_POWER_BI_GIF_HERE](https://i.pinimg.com/originals/a0/f8/5c/a0f85c35e406acb5b84c13dae888d5a3.gif)">
-</p>
-
-# 🤝 Let's Connect
-
-<!-- TODO -->
-<!-- Replace YOUR_LINKEDIN_URL -->
-
-<p align="left">
-
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/omarshalaby1/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:omarshalaby.data@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-1565C0?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/Resume-0B3D91?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omarshalaby1&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarshalaby1&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=omarshalaby1&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=omarshalaby1&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=omarshalaby1&style=for-the-badge&color=1565C0"/>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build scalable Business Intelligence solutions together.**
-
-</p>
-
-<!-- ========================================================= -->
-<!-- END OF README -->
-<!-- ========================================================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F2027,50:203A43,100:2C5364" alt="">
