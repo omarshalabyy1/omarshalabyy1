@@ -3,47 +3,46 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Data+pipelines+and+warehouses;RAG+and+AI+agents+on+your+data;Automation+that+removes+manual+work;Power+BI+dashboards+leaders+use" alt="Data pipelines, RAG and AI agents, automation, Power BI dashboards">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Messy+data+in.+Clear+decisions+out.;Pipelines+that+run+while+you+sleep;AI+that+answers+from+your+own+documents;Automations+that+give+your+team+hours+back;Dashboards+leaders+actually+open" alt="Messy data in. Clear decisions out.">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omarshalaby1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:omarshalaby.data@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Cairo,_Egypt-2C5364?style=for-the-badge" alt="Cairo, Egypt">
+  <a href="mailto:omarshalaby.data@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email me"></a>
+  <a href="https://www.linkedin.com/in/omarshalaby1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Based_in-Cairo,_Egypt-2C5364?style=for-the-badge" alt="Based in Cairo, Egypt">
 </p>
 
----
+<h3 align="center">I turn scattered business data into AI, automation and dashboards<br>that save your team hours and sharpen every decision.</h3>
 
-### 👋 About me
+<p align="center">
+  I don't build demos. I build systems that run every day: tested, monitored and documented.<br>
+  🔧 Right now: production data pipelines for a retail data platform on Python, PostgreSQL and Apache Airflow.
+</p>
 
-I help businesses turn scattered data into **reliable pipelines**, **AI that answers questions**, **automations that remove manual work**, and **dashboards leaders actually use**.
+<br>
 
-🔧 Currently building production data pipelines for a retail data platform with Python, PostgreSQL and Apache Airflow.
+<p align="center">
+  <img width="100%" src="assets/before-after.svg" alt="Before: reports rebuilt by hand, scattered data, answers buried in documents, copy-paste work. After: self-refreshing dashboards, one trusted warehouse, an AI assistant that cites its sources, workflows that run on their own.">
+</p>
 
-### 🎯 Client problems I solve
+## 🎯 Problems I solve
 
 | | Your problem | What I build | What you get |
 |:-:|---|---|---|
-| 🏗️ | Data is scattered across systems and the numbers don't match | A central warehouse with tested, governed pipelines | One source of truth everyone trusts |
-| 🧠 | Answers are buried in documents, PDFs and emails | A RAG assistant over your documents and data that cites its sources | Answers in one question, not hours of searching |
-| 🧠 | Reviews, tickets and feedback pile up unread | NLP pipelines for classification, sentiment and entity extraction | Issues and trends surface automatically |
-| ⚙️ | Staff copy data between systems and download reports by hand | Scheduled automations, API integrations and AI agents | Hours of repetitive work handed to software |
-| 📊 | Leadership waits on reports rebuilt by hand every week | Automated Power BI KPI dashboards | Reports refresh on their own and decisions come faster |
-| 📊 | Excel workbooks are slow, fragile and error-prone | Power Query, Power Pivot and VBA automation | Workbooks that refresh in one click |
+| 🏗️ | Data is scattered across systems and the numbers don't match | A central warehouse with tested, governed pipelines | **One source of truth everyone trusts** |
+| 🧠 | Answers are buried in documents, PDFs and emails | A RAG assistant over your documents and data that cites its sources | **Answers in one question, not hours of searching** |
+| 🧠 | Reviews, tickets and feedback pile up unread | NLP pipelines for classification, sentiment and entity extraction | **Issues and trends surface automatically** |
+| ⚙️ | Staff copy data between systems and download reports by hand | Scheduled automations, API integrations and AI agents | **Repetitive work handed to software** |
+| 📊 | Leadership waits on reports rebuilt by hand every week | Automated Power BI KPI dashboards | **Reports that refresh themselves** |
+| 📊 | Excel workbooks are slow, fragile and error-prone | Power Query, Power Pivot and VBA automation | **Workbooks that refresh in one click** |
 
-### 🧩 How it fits together
+## 🧩 The system I build
 
-```mermaid
-flowchart LR
-    S["Sources<br/>databases · APIs · web · documents"] --> D["🏗️ Data layer<br/>pipelines · warehouse"]
-    D --> A["🧠 AI layer<br/>RAG · agents · NLP"]
-    D --> I["📊 Insight layer<br/>Power BI · Excel"]
-    A --> W["⚙️ Automation layer<br/>workflows · integrations"]
-    W --> O["Business outcomes<br/>less manual work · faster decisions"]
-    I --> O
-```
+<p align="center">
+  <img width="100%" src="assets/architecture.svg" alt="The system I build, bottom to top: sources feed the data layer; the data layer feeds the AI layer and the insight layer; both feed the automation layer; everything delivers business outcomes.">
+</p>
 
-### 🛠️ What I work with
+## 🛠️ What I work with
 
 <table>
 <tr>
@@ -137,8 +136,59 @@ flowchart LR
 </tr>
 </table>
 
-### 🤝 Let's work together
+## 🚀 How I work
 
-Have a problem like the ones above? [Email me](mailto:omarshalaby.data@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/omarshalaby1/).
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+
+### 🔍
+**1. Discover**
+
+Your data, your pain points and the decisions that matter most
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### 📐
+**2. Design**
+
+A clear architecture and a scoped plan before any code
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### 🛠️
+**3. Build**
+
+Working results early, shown in regular demos
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### 🤝
+**4. Hand over**
+
+Documentation, training and support, so your team owns it
+
+</td>
+</tr>
+</table>
+
+## 💡 Why work with me
+
+- ✅ **Production-grade, not demos.** Tested, monitored and documented, built to run every single day.
+- ✅ **End to end.** One engineer from raw data to AI, automation and dashboards. No hand-offs between vendors.
+- ✅ **Business first.** I start from the decision you need to make, then pick the tools.
+- ✅ **You own it.** Clean code and clear documentation, so your team can run it without me.
+
+<br>
+
+<h3 align="center">Ready to stop doing work by hand?</h3>
+
+<p align="center">
+  <a href="mailto:omarshalaby.data@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email me"></a>
+  <a href="https://www.linkedin.com/in/omarshalaby1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F2027,50:203A43,100:2C5364" alt="">

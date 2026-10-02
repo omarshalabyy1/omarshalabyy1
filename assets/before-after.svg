@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Before: reports rebuilt by hand, scattered data, answers buried in documents, copy-paste work. After: self-refreshing dashboards, one trusted warehouse, an AI assistant that cites sources, workflows that run on their own.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2027"/>
+      <stop offset="0.5" stop-color="#203A43"/>
+      <stop offset="1" stop-color="#2C5364"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; }
+    .head { font-size: 14px; font-weight: 700; letter-spacing: 2px; }
+    .item { font-size: 15px; fill: #E2E8F0; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: 450px 150px; }
+    @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.12); } }
+  </style>
+
+  <rect width="900" height="300" rx="18" fill="url(#bg)"/>
+
+  <!-- Before -->
+  <rect x="30" y="30" width="390" height="240" rx="14" fill="#F87171" fill-opacity="0.08" stroke="#F87171" stroke-opacity="0.45"/>
+  <text x="54" y="68" class="head" fill="#F87171">BEFORE</text>
+  <g stroke="#F87171" stroke-width="2.2" stroke-linecap="round">
+    <circle cx="64" cy="105" r="11" fill="#F87171" fill-opacity="0.15" stroke="none"/>
+    <path d="M59.5 100.5l9 9M68.5 100.5l-9 9"/>
+    <circle cx="64" cy="147" r="11" fill="#F87171" fill-opacity="0.15" stroke="none"/>
+    <path d="M59.5 142.5l9 9M68.5 142.5l-9 9"/>
+    <circle cx="64" cy="189" r="11" fill="#F87171" fill-opacity="0.15" stroke="none"/>
+    <path d="M59.5 184.5l9 9M68.5 184.5l-9 9"/>
+    <circle cx="64" cy="231" r="11" fill="#F87171" fill-opacity="0.15" stroke="none"/>
+    <path d="M59.5 226.5l9 9M68.5 226.5l-9 9"/>
+  </g>
+  <text x="86" y="110" class="item">Reports rebuilt by hand every week</text>
+  <text x="86" y="152" class="item">Data scattered across disconnected tools</text>
+  <text x="86" y="194" class="item">Answers buried in PDFs and inboxes</text>
+  <text x="86" y="236" class="item">Hours lost to copy-paste work</text>
+
+  <!-- Arrow -->
+  <g class="pulse">
+    <circle cx="450" cy="150" r="22" fill="#2DD4BF"/>
+    <path d="M440 150h18M451 142l8 8-8 8" fill="none" stroke="#0F2027" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- After -->
+  <rect x="480" y="30" width="390" height="240" rx="14" fill="#34D399" fill-opacity="0.08" stroke="#34D399" stroke-opacity="0.45"/>
+  <text x="504" y="68" class="head" fill="#34D399">AFTER</text>
+  <g stroke="#34D399" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="514" cy="105" r="11" fill="#34D399" fill-opacity="0.15" stroke="none"/>
+    <path d="M508.5 105l4 4 7-8"/>
+    <circle cx="514" cy="147" r="11" fill="#34D399" fill-opacity="0.15" stroke="none"/>
+    <path d="M508.5 147l4 4 7-8"/>
+    <circle cx="514" cy="189" r="11" fill="#34D399" fill-opacity="0.15" stroke="none"/>
+    <path d="M508.5 189l4 4 7-8"/>
+    <circle cx="514" cy="231" r="11" fill="#34D399" fill-opacity="0.15" stroke="none"/>
+    <path d="M508.5 231l4 4 7-8"/>
+  </g>
+  <text x="536" y="110" class="item">Dashboards that refresh themselves</text>
+  <text x="536" y="152" class="item">One warehouse everyone trusts</text>
+  <text x="536" y="194" class="item">An AI assistant that cites its sources</text>
+  <text x="536" y="236" class="item">Workflows that run on their own</text>
+</svg>
