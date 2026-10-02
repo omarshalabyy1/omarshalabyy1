@@ -62,7 +62,7 @@
 ## ⭐ Featured projects
 
 <p align="center">
-  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, data engineering and AI: a retail supply chain platform that recovers supplier deduction losses with a daily Airflow pipeline, a PostgreSQL bronze, silver and gold warehouse, reconciliation to the cent and a rules knowledge base. Bosch Car Service, data engineering and BI developer: multi-branch Excel templates feeding a Python ETL into a SQL Server warehouse with Power BI dashboards across every branch.">
+  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, data engineering and AI: a retail supply chain platform that recovers supplier deduction losses with a daily Airflow pipeline, a PostgreSQL bronze, silver and gold warehouse, reconciliation to the cent and a rules knowledge base. Bosch Car Service, data analysis and BI developer: branch performance analysis and Power BI dashboards for every branch on a star-schema model with DAX KPIs, fed by daily branch reports loaded to SQL Server.">
 </p>
 
 ## 🚀 How we work together
