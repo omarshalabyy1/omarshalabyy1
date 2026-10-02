@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Omar Shalaby, AI and Data Engineer: LLMs, RAG, AI agents and automation. A terminal runs a pipeline that ingests sources, embeds documents and runs an agent.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#10213A"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#14B8A6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .sans { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; }
+    .mono { font-family: "Fira Code", Consolas, "Courier New", monospace; font-size: 14px; }
+    .wave { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 2 10; animation: flow 6s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -120; } }
+    .l1, .l2, .l3, .l4, .l5 { opacity: 0; animation: type 8s ease-out infinite; }
+    .l2 { animation-delay: 0.8s; } .l3 { animation-delay: 1.6s; } .l4 { animation-delay: 2.4s; } .l5 { animation-delay: 3.2s; }
+    @keyframes type { 0% { opacity: 0; } 4%, 85% { opacity: 1; } 95%, 100% { opacity: 0; } }
+    .pulse { animation: pulse 3s ease-in-out infinite; transform-origin: 900px 100px; }
+    @keyframes pulse { 0%, 100% { transform: scale(1); opacity: 0.85; } 50% { transform: scale(1.08); opacity: 1; } }
+  </style>
+
+  <rect width="1000" height="300" rx="22" fill="url(#bg)"/>
+  <circle cx="880" cy="70" r="190" fill="url(#glowA)"/>
+  <circle cx="160" cy="280" r="170" fill="url(#glowB)"/>
+
+  <path class="wave" stroke="#2DD4BF" stroke-opacity="0.55" d="M0 230 C 150 170, 280 290, 450 225 S 760 160, 1000 215"/>
+  <path class="wave" stroke="#A78BFA" stroke-opacity="0.45" style="animation-duration:9s" d="M0 255 C 180 215, 320 300, 520 250 S 820 205, 1000 245"/>
+
+  <!-- Terminal -->
+  <rect x="50" y="62" width="330" height="168" rx="14" fill="#0F172A" fill-opacity="0.92" stroke="#334155"/>
+  <circle cx="74" cy="84" r="6" fill="#FF5F57"/>
+  <circle cx="94" cy="84" r="6" fill="#FEBC2E"/>
+  <circle cx="114" cy="84" r="6" fill="#28C840"/>
+  <text x="72" y="120" class="mono l1" fill="#5EEAD4">$ python run_pipeline.py</text>
+  <text x="72" y="145" class="mono l2" fill="#C4B5FD">-&gt; ingest(sources)</text>
+  <text x="72" y="168" class="mono l3" fill="#C4B5FD">-&gt; embed(documents)</text>
+  <text x="72" y="191" class="mono l4" fill="#C4B5FD">-&gt; agent.run(task)</text>
+  <text x="72" y="214" class="mono l5" fill="#4ADE80">[ok] 0 manual steps</text>
+
+  <!-- Name -->
+  <text x="430" y="135" class="sans" font-size="46" font-weight="700" fill="#FFFFFF">Omar Shalaby</text>
+  <text x="432" y="172" class="sans" font-size="20" font-weight="600" fill="#5EEAD4">AI &amp; Data Engineer</text>
+  <text x="432" y="200" class="sans" font-size="15" fill="#CBD5E1">Data Pipelines &#183; Data Warehousing &#183; Data Modeling</text>
+  <text x="432" y="224" class="sans" font-size="15" fill="#CBD5E1">LLMs &#183; RAG &#183; AI Agents &#183; NLP &#183; Automation</text>
+
+  <!-- Network mark -->
+  <g class="pulse" stroke="#5EEAD4" stroke-opacity="0.8" stroke-width="1.6">
+    <line x1="900" y1="100" x2="868" y2="72"/>
+    <line x1="900" y1="100" x2="932" y2="72"/>
+    <line x1="900" y1="100" x2="868" y2="128"/>
+    <line x1="900" y1="100" x2="932" y2="128"/>
+    <circle cx="900" cy="100" r="15" fill="#1E3A5F"/>
+    <circle cx="868" cy="72" r="7" fill="#0F172A"/>
+    <circle cx="932" cy="72" r="7" fill="#0F172A"/>
+    <circle cx="868" cy="128" r="7" fill="#0F172A"/>
+    <circle cx="932" cy="128" r="7" fill="#0F172A"/>
+  </g>
+</svg>

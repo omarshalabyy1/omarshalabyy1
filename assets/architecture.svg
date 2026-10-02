@@ -29,7 +29,7 @@
   <rect x="80" y="144" width="740" height="58" rx="10" fill="#F59E0B" fill-opacity="0.10" stroke="#F59E0B" stroke-opacity="0.5"/>
   <rect x="80" y="144" width="6" height="58" rx="3" fill="#F59E0B"/>
   <text x="104" y="168" class="label" fill="#F59E0B">AUTOMATION LAYER</text>
-  <text x="104" y="189" class="items">Scheduled workflows &#183; API integrations &#183; Browser automation &#183; Agents that take action</text>
+  <text x="104" y="189" class="items">Airflow-orchestrated workflows &#183; API integrations &#183; Browser automation &#183; Agents that act</text>
 
   <!-- AI -->
   <rect x="80" y="218" width="365" height="58" rx="10" fill="#A855F7" fill-opacity="0.12" stroke="#A855F7" stroke-opacity="0.55"/>
@@ -47,7 +47,7 @@
   <rect x="80" y="292" width="740" height="58" rx="10" fill="#3B82F6" fill-opacity="0.12" stroke="#3B82F6" stroke-opacity="0.6"/>
   <rect x="80" y="292" width="6" height="58" rx="3" fill="#3B82F6"/>
   <text x="104" y="316" class="label" fill="#60A5FA">DATA LAYER</text>
-  <text x="104" y="337" class="items">Pipelines &#183; Warehouse (bronze, silver, gold) &#183; Airflow orchestration &#183; Data quality</text>
+  <text x="104" y="337" class="items">Data pipelines &#183; Data warehousing &#183; Data modeling (star schema) &#183; Airflow &#183; Data quality</text>
 
   <!-- Sources -->
   <rect x="80" y="366" width="740" height="58" rx="10" fill="#94A3B8" fill-opacity="0.08" stroke="#94A3B8" stroke-opacity="0.4"/>
