@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Before: reports rebuilt by hand, scattered data, answers buried in documents, copy-paste work. After: self-refreshing dashboards, one trusted warehouse, an AI assistant that cites sources, workflows that run on their own.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0F2027"/>
-      <stop offset="0.5" stop-color="#203A43"/>
-      <stop offset="1" stop-color="#2C5364"/>
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.5" stop-color="#10213A"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
     </linearGradient>
   </defs>
   <style>

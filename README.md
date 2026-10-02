@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Messy+data+in.+Clear+decisions+out.;Pipelines+that+run+while+you+sleep;Warehouses+and+data+models+you+can+trust;AI+that+answers+from+your+own+documents;Automations+that+give+your+team+hours+back;Dashboards+leaders+actually+open" alt="Messy data in. Clear decisions out.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Messy+data+in.+Clear+decisions+out.;Collect.+Clean.+Organize.+Ask.+Act.+See.;AI+that+answers+from+your+own+documents;Automations+that+give+your+team+hours+back" alt="Messy data in. Clear decisions out.">
 </p>
 
 <p align="center">
@@ -13,11 +13,6 @@
 </p>
 
 <h3 align="center">I turn scattered business data into AI, automation and dashboards<br>that save your team hours and sharpen every decision.</h3>
-
-<p align="center">
-  I don't build demos. I build systems that run every day: tested, monitored and documented.<br>
-  🔧 Right now: production data pipelines for a retail data platform on Python, PostgreSQL and Apache Airflow.
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=for-the-badge" alt="Data Pipelines">
@@ -33,161 +28,56 @@
   <img src="https://img.shields.io/badge/Power_BI-CA8A04?style=for-the-badge" alt="Power BI">
 </p>
 
-<br>
-
-## 😣 The pain I remove
+## 😣 The problem
 
 <p align="center">
   <img width="100%" src="assets/before-after.svg" alt="Before: reports rebuilt by hand, scattered data, answers buried in documents, copy-paste work. After: self-refreshing dashboards, one trusted warehouse, an AI assistant that cites its sources, workflows that run on their own.">
 </p>
 
-## 📦 Products
+## 🧠 The idea, in 6 steps
 
-Ready-made solutions, scoped up front and delivered end to end.
+<p align="center">
+  <img width="100%" src="assets/mental-model.svg" alt="From messy data to results in 6 steps, like a restaurant kitchen: 1 Collect, groceries arrive (data pipelines); 2 Clean, wash and chop (ETL and data quality); 3 Organize, a labeled pantry (warehouse and data modeling); 4 Ask, ask the chef anything (RAG, AI agents and NLP); 5 Act, service runs itself (automation with Airflow); 6 See, see what sells (Power BI and Excel).">
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 📦 What I deliver
 
-### 🏗️ Data Warehouse Launch
-😣 **Pain:** data spread across ERP, CRM, spreadsheets and APIs, and the numbers never match<br>
-🛠️ **You get:** Airflow pipelines from every source, a modeled warehouse (star schema), data quality tests and documentation<br>
-📈 **Result:** one source of truth that refreshes itself
+<p align="center">
+  <img width="100%" src="assets/products.svg" alt="Six ready-made solutions built from the 6 steps: Data Warehouse Launch, Executive KPI Dashboard, AI Knowledge Assistant, AI Document Agent, Workflow Automation and Feedback Intelligence, each with the pain it removes and the result it delivers.">
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <b>Built for:</b>&nbsp;
+  <img src="https://img.shields.io/badge/Finance-1E293B?style=flat-square" alt="Finance">
+  <img src="https://img.shields.io/badge/Sales_and_e--commerce-1E293B?style=flat-square" alt="Sales and e-commerce">
+  <img src="https://img.shields.io/badge/Operations-1E293B?style=flat-square" alt="Operations and supply chain">
+  <img src="https://img.shields.io/badge/Customer_service-1E293B?style=flat-square" alt="Customer service">
+  <img src="https://img.shields.io/badge/HR-1E293B?style=flat-square" alt="HR">
+  <img src="https://img.shields.io/badge/Leadership-1E293B?style=flat-square" alt="Leadership">
+</p>
 
-### 📊 Executive KPI Dashboard
-😣 **Pain:** leadership waits days for reports rebuilt by hand<br>
-🛠️ **You get:** a Power BI model, DAX KPIs, drill-downs and scheduled refresh on trusted data<br>
-📈 **Result:** live KPIs every morning, no spreadsheets
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 AI Knowledge Assistant
-😣 **Pain:** answers buried in PDFs, policies, manuals and emails<br>
-🛠️ **You get:** a RAG assistant over your documents and data that cites its sources, with quality evaluation<br>
-📈 **Result:** answers in one question, not hours of searching
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Document Agent
-😣 **Pain:** staff read invoices, contracts and forms and key the data in by hand<br>
-🛠️ **You get:** LLM extraction into structured data, validation, a human review step and export to your systems<br>
-📈 **Result:** less manual entry and fewer errors
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Workflow Automation
-😣 **Pain:** hours lost to copy-paste, portal downloads and repetitive reports<br>
-🛠️ **You get:** Airflow-scheduled workflows, API integrations, browser automation and alerts when something needs a human<br>
-📈 **Result:** your team gets hours back every week
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Customer Feedback Intelligence
-😣 **Pain:** reviews, tickets and surveys pile up unread<br>
-🛠️ **You get:** an NLP pipeline for sentiment, topics and entities, feeding a live dashboard<br>
-📈 **Result:** problems surface before they escalate
-
-</td>
-</tr>
-</table>
-
-## 💼 Business solutions by team
-
-| Team | The pain | What I build |
-|---|---|---|
-| 💰 **Finance** | Month-end close waits on manual reconciliations across spreadsheets | Automated reconciliation pipelines and Power BI P&L and cash dashboards |
-| 🛒 **Sales and e-commerce** | No single view of revenue by product, channel and customer | A sales warehouse with a star schema and daily revenue and margin dashboards |
-| 📦 **Operations and supply chain** | Stock-outs and overstock found too late | Inventory and supplier pipelines with alerts and demand dashboards |
-| 🎧 **Customer service** | Tickets and reviews read one by one | NLP triage and sentiment, plus a RAG assistant for your agents |
-| 👥 **HR** | Headcount and attrition reports built by hand | An HR data model with attrition and workforce dashboards |
-| 🧭 **Leadership** | Decisions made on week-old numbers | Executive KPI dashboards on a trusted, automated warehouse |
-
-## 🚀 How I work
+## 🚀 How we work together
 
 <p align="center">
   <img width="100%" src="assets/process.svg" alt="How a project runs: 01 Discover your data, pains and key decisions; 02 Design the architecture and a scoped plan; 03 Build working results early with regular demos; 04 Hand over with documentation, training and support.">
 </p>
 
-## 💡 Why work with me
+## 💡 Why me
 
-- ✅ **Production-grade, not demos.** Tested, monitored and documented, built to run every single day.
-- ✅ **End to end.** One engineer from raw data to AI, automation and dashboards. No hand-offs between vendors.
-- ✅ **Business first.** I start from the decision you need to make, then pick the tools.
-- ✅ **You own it.** Clean code and clear documentation, so your team can run it without me.
+- ✅ **Production-grade, not demos:** tested, monitored and documented to run every day.
+- ✅ **End to end:** one engineer from raw data to AI, automation and dashboards.
+- ✅ **Business first:** I start from the decision you need to make, then pick the tools.
+- ✅ **You own it:** clean code and documentation your team can run without me.
 
-## 🧩 Under the hood: the system I build
+## 🧩 Under the hood
+
+For technical readers: the same 6 steps as a system, the tools behind it, and every skill.
 
 <p align="center">
-  <img width="100%" src="assets/architecture.svg" alt="The system I build, bottom to top: sources feed the data layer; the data layer feeds the AI layer and the insight layer; both feed the automation layer; everything delivers business outcomes.">
+  <img width="100%" src="assets/architecture.svg" alt="The system I build, bottom to top: sources feed the data layer (steps 1 to 3: collect, clean, organize); the data layer feeds the AI layer (step 4: ask) and the insight layer (step 6: see); both feed the automation layer (step 5: act); everything delivers business outcomes.">
 </p>
 
-## 🛠️ What I do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏗️ Data layer
-*Reliable data, ready for AI and reporting*
-
-- **Data pipelines:** batch and streaming ETL and ELT with incremental loads
-- **Data warehousing:** layered warehouses (bronze, silver, gold) on PostgreSQL and SQL Server
-- **Data modeling:** star schemas, grain and slowly changing dimensions
-- **Orchestration:** Apache Airflow with retries, monitoring and backfills
-- **Data quality:** tests, governance and lineage
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 AI layer
-*Ask questions of your data and documents*
-
-- Document ingestion, chunking and embedding pipelines
-- RAG with hybrid search, reranking and cited answers
-- AI agents with tool calling, memory and MCP
-- NLP: classification, sentiment, entity extraction, summarization
-- Evaluation and monitoring of LLM quality, cost and latency
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ⚙️ Automation layer
-*Hand repetitive work to software*
-
-- Workflows scheduled and orchestrated with Apache Airflow: retries, monitoring and alerts
-- Browser automation and web scraping
-- API integrations that move data between systems
-- AI agents that read documents, extract data and trigger the next step
-
-</td>
-<td width="50%" valign="top">
-
-#### 📊 Insight layer
-*Decisions from dashboards, not spreadsheets*
-
-- Power BI data models, DAX measures and KPI dashboards
-- Power Query for repeatable data shaping
-- Excel: Power Pivot, pivot tables and advanced formulas
-- Report automation with VBA and macros
-
-</td>
-</tr>
-</table>
-
-## 💻 Tech stack
+### 💻 Tech stack
 
 <h4 align="center">🗄️ Languages and databases</h4>
 <p align="center">
@@ -253,9 +143,10 @@ Ready-made solutions, scoped up front and delivered end to end.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code">&nbsp;&nbsp;
 </p>
 
-## 📚 Full skill map
 
-Click any area to expand it.
+<details>
+<summary><b>📚 Full skill map: 13 areas from my training (click to open)</b></summary>
+<br>
 
 <details>
 <summary><b>🗄️ Databases and SQL</b></summary>
@@ -382,6 +273,8 @@ Click any area to expand it.
 - Power Query and Power Pivot with DAX
 - Interactive dashboards, data validation and conditional formatting
 - VBA and macros for report automation
+
+</details>
 
 </details>
 
