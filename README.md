@@ -104,6 +104,7 @@ For technical readers: the same 6 steps as a system, the tools behind it, and ev
 <h4 align="center">🏗️ Data engineering and big data</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="42" alt="Apache Airflow" title="Apache Airflow">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/dbt-icon.svg" height="42" alt="dbt" title="dbt">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="42" alt="Apache Spark" title="Apache Spark">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apachekafka/9CA3AF" height="42" alt="Apache Kafka" title="Apache Kafka">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="42" alt="Hadoop" title="Hadoop">&nbsp;&nbsp;
@@ -114,6 +115,7 @@ For technical readers: the same 6 steps as a system, the tools behind it, and ev
 <p align="center">
   <img src="assets/icons/aws.svg" height="42" alt="AWS" title="AWS">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="Azure" title="Azure">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="42" alt="Snowflake" title="Snowflake">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="42" alt="Databricks" title="Databricks">&nbsp;&nbsp;
 </p>
 
