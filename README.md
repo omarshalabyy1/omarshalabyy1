@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Omar%20Shalaby&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=AI%20%26%20Data%20Engineer&descAlignY=56&descSize=20&animation=fadeIn" alt="Omar Shalaby, AI and Data Engineer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Omar%20Shalaby&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=AI%20%26amp%3B%20Data%20Engineer&descAlignY=56&descSize=20&animation=fadeIn" alt="Omar Shalaby, AI and Data Engineer">
 </p>
 
 <p align="center">
