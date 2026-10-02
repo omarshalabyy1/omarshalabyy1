@@ -14,6 +14,8 @@
 
 <h3 align="center">I turn scattered business data into AI, automation and dashboards<br>that save your team hours and sharpen every decision.</h3>
 
+<p align="center"><b>Domain expertise:</b> retail supply chain (supplier invoicing, purchase orders, retailer deductions, freight and logistics charges) and automotive service operations.</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=for-the-badge" alt="Data Pipelines">
   <img src="https://img.shields.io/badge/Data_Warehousing-2563EB?style=for-the-badge" alt="Data Warehousing">
@@ -25,10 +27,11 @@
   <img src="https://img.shields.io/badge/AI_Agents-A855F7?style=for-the-badge" alt="AI Agents">
   <img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge" alt="NLP">
   <img src="https://img.shields.io/badge/Automation-D97706?style=for-the-badge" alt="Automation">
+  <img src="https://img.shields.io/badge/Supply_Chain-0F766E?style=for-the-badge" alt="Supply Chain">
   <img src="https://img.shields.io/badge/Power_BI-CA8A04?style=for-the-badge" alt="Power BI">
 </p>
 
-## 😣 The problem
+## 🔍 The problem
 
 <p align="center">
   <img width="100%" src="assets/before-after.svg" alt="Before: reports rebuilt by hand, scattered data, answers buried in documents, copy-paste work. After: self-refreshing dashboards, one trusted warehouse, an AI assistant that cites its sources, workflows that run on their own.">
@@ -50,10 +53,16 @@
   <b>Built for:</b>&nbsp;
   <img src="https://img.shields.io/badge/Finance-1E293B?style=flat-square" alt="Finance">
   <img src="https://img.shields.io/badge/Sales_and_e--commerce-1E293B?style=flat-square" alt="Sales and e-commerce">
-  <img src="https://img.shields.io/badge/Operations-1E293B?style=flat-square" alt="Operations and supply chain">
+  <img src="https://img.shields.io/badge/Supply_chain_and_operations-1E293B?style=flat-square" alt="Supply chain and operations">
   <img src="https://img.shields.io/badge/Customer_service-1E293B?style=flat-square" alt="Customer service">
   <img src="https://img.shields.io/badge/HR-1E293B?style=flat-square" alt="HR">
   <img src="https://img.shields.io/badge/Leadership-1E293B?style=flat-square" alt="Leadership">
+</p>
+
+## ⭐ Featured projects
+
+<p align="center">
+  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, data engineering and AI: a retail supply chain platform that recovers supplier deduction losses with a daily Airflow pipeline, a PostgreSQL bronze, silver and gold warehouse, reconciliation to the cent and a rules knowledge base. Bosch Car Service, data engineering and BI developer: multi-branch Excel templates feeding a Python ETL into a SQL Server warehouse with Power BI dashboards at zero licence cost.">
 </p>
 
 ## 🚀 How we work together
@@ -85,6 +94,7 @@ For technical readers: the same 6 steps as a system, the tools behind it, and ev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="42" alt="SQL Server" title="SQL Server">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/9CA3AF" height="42" alt="Prisma Postgres" title="Prisma Postgres">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="pandas" title="pandas">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="NumPy" title="NumPy">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter" title="Jupyter">&nbsp;&nbsp;
@@ -102,6 +112,7 @@ For technical readers: the same 6 steps as a system, the tools behind it, and ev
 
 <h4 align="center">☁️ Cloud</h4>
 <p align="center">
+  <img src="assets/icons/aws.svg" height="42" alt="AWS" title="AWS">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="Azure" title="Azure">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="42" alt="Databricks" title="Databricks">&nbsp;&nbsp;
 </p>
@@ -139,6 +150,7 @@ For technical readers: the same 6 steps as a system, the tools behind it, and ev
 <h4 align="center">🛠️ Tools</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="42" alt="pytest" title="pytest">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/9CA3AF" height="42" alt="GitHub" title="GitHub">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code">&nbsp;&nbsp;
 </p>
