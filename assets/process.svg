@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270" role="img" aria-label="How a project runs: 01 Discover your data, pains and key decisions; 02 Design the architecture and a scoped plan; 03 Build working results early with regular demos; 04 Hand over with documentation, training and support.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#10213A"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; }
+    .title { font-size: 21px; font-weight: 700; fill: #FFFFFF; }
+    .sub { font-size: 13.5px; fill: #CBD5E1; }
+    .num { font-size: 14px; font-weight: 700; fill: #FFFFFF; }
+    .step { font-size: 16px; font-weight: 700; fill: #FFFFFF; }
+    .desc { font-size: 13px; fill: #94A3B8; }
+    .cap { font-size: 12px; fill: #64748B; }
+    .link { fill: none; stroke: #64748B; stroke-width: 2; stroke-dasharray: 4 6; animation: flow 1.6s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -20; } }
+  </style>
+
+  <rect width="1000" height="270" rx="22" fill="url(#bg)"/>
+  <text x="50" y="52" class="title">How a project runs</text>
+  <text x="50" y="76" class="sub">Clear steps, working results early, and a system your team owns.</text>
+
+  <path class="link" d="M255 165h30"/>
+  <path class="link" d="M490 165h30"/>
+  <path class="link" d="M725 165h30"/>
+
+  <!-- 01 -->
+  <rect x="50" y="105" width="205" height="120" rx="14" fill="#3B82F6" fill-opacity="0.08" stroke="#3B82F6" stroke-opacity="0.7"/>
+  <circle cx="84" cy="140" r="18" fill="#3B82F6" fill-opacity="0.35"/>
+  <text x="84" y="145" class="num" text-anchor="middle">01</text>
+  <text x="112" y="146" class="step">Discover</text>
+  <text x="70" y="184" class="desc">Your data, your pain points</text>
+  <text x="70" y="203" class="desc">and the key decisions</text>
+
+  <!-- 02 -->
+  <rect x="285" y="105" width="205" height="120" rx="14" fill="#14B8A6" fill-opacity="0.08" stroke="#14B8A6" stroke-opacity="0.7"/>
+  <circle cx="319" cy="140" r="18" fill="#14B8A6" fill-opacity="0.35"/>
+  <text x="319" y="145" class="num" text-anchor="middle">02</text>
+  <text x="347" y="146" class="step">Design</text>
+  <text x="305" y="184" class="desc">A clear architecture and</text>
+  <text x="305" y="203" class="desc">a scoped plan before code</text>
+
+  <!-- 03 -->
+  <rect x="520" y="105" width="205" height="120" rx="14" fill="#A855F7" fill-opacity="0.08" stroke="#A855F7" stroke-opacity="0.7"/>
+  <circle cx="554" cy="140" r="18" fill="#A855F7" fill-opacity="0.35"/>
+  <text x="554" y="145" class="num" text-anchor="middle">03</text>
+  <text x="582" y="146" class="step">Build</text>
+  <text x="540" y="184" class="desc">Working results early,</text>
+  <text x="540" y="203" class="desc">shown in regular demos</text>
+
+  <!-- 04 -->
+  <rect x="755" y="105" width="205" height="120" rx="14" fill="#22C55E" fill-opacity="0.08" stroke="#22C55E" stroke-opacity="0.7"/>
+  <circle cx="789" cy="140" r="18" fill="#22C55E" fill-opacity="0.35"/>
+  <text x="789" y="145" class="num" text-anchor="middle">04</text>
+  <text x="817" y="146" class="step">Hand over</text>
+  <text x="775" y="184" class="desc">Docs, training and support,</text>
+  <text x="775" y="203" class="desc">so your team owns it</text>
+
+  <text x="500" y="252" class="cap" text-anchor="middle">Reliable foundations &#183; grounded AI &#183; measurable outcomes</text>
+</svg>

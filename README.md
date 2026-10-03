@@ -3,268 +3,119 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Messy+business+data+in.+Clear+decisions+out.;Your+data.+Your+AI.+One+system.;LLM+agents+that+answer+from+your+data;Zero-touch+pipelines+that+run+themselves" alt="Messy business data in. Clear decisions out.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=760&lines=Messy+data+in.+Clear+decisions+out.;Collect.+Clean.+Organize.+Ask.+Act.+See.;AI+that+answers+from+your+own+documents;Automations+that+give+your+team+hours+back" alt="Messy data in. Clear decisions out.">
 </p>
 
 <p align="center">
-  <a href="mailto:omarshalaby.data@gmail.com?subject=Free%2015-minute%20call"><img src="https://img.shields.io/badge/Book_a_free_15--minute_call-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Book a free 15-minute call"></a>
+  <a href="mailto:omarshalaby.data@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email me"></a>
   <a href="https://www.linkedin.com/in/omarshalaby1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Cairo,_Egypt-Taking_new_projects-2C5364?style=for-the-badge" alt="Cairo, Egypt: taking new projects">
+  <img src="https://img.shields.io/badge/Based_in-Cairo,_Egypt-2C5364?style=for-the-badge" alt="Based in Cairo, Egypt">
 </p>
 
-<h3 align="center">I build data and AI systems that turn messy business data into clear decisions<br>and give your team back hours every week.</h3>
+<h3 align="center">I turn scattered business data into AI, automation and dashboards<br>that save your team hours and sharpen every decision.</h3>
 
-<p align="center">For retail, e-commerce and supply chain teams. Fixed price before any work starts.</p>
-
-<p align="center"><b>Worked with:</b> Null Labs AI Inc. · Bosch Service · Waha Bosch Auto Service</p>
-
-## 🔍 Business pains
-
-Why most AI and reporting projects fail before they start.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>01 · Your data is scattered</b>
-<br><br>Sales, stock and supplier data sit in Excel files, WhatsApp chats and systems that never agree, so no report or AI can trust them.
-</td>
-<td width="33%" valign="top">
-<b>02 · Your rules live in people's heads</b>
-<br><br>Net sales, margin and stock status are calculated differently by every team, so the same question gets three different answers.
-</td>
-<td width="33%" valign="top">
-<b>03 · Chatbots only talk</b>
-<br><br>A generic chatbot cannot read your data or do the work. Without pipelines and integrations behind it, AI stays a demo.
-</td>
-</tr>
-</table>
-
-## 🧠 Your data. Your AI. One system.
-
-Everything I build fits into one system. Your data flows through clean pipelines into AI and dashboards, and automation keeps every layer running with nobody touching it.
+<p align="center"><b>Domain expertise:</b> retail supply chain (supplier invoicing, purchase orders, retailer deductions, freight and logistics charges) and automotive service operations.</p>
 
 <p align="center">
-  <img width="100%" src="assets/ecosystem.svg" alt="Your data. Your AI. One system. Four layers, top to bottom: 01 Your data, wherever it lives today (Excel and CSV, POS and ERP, store and marketplace exports, APIs, PDFs and documents); 02 Data engineering layer (pipelines, cleaning, business rules, data warehouse, big data); 03 AI layer (RAG over your documents, LLM chatbots, AI agents, document AI); 04 Data analysis layer (Power BI dashboards, KPI reports, chat on web and WhatsApp, alerts). Beside them, the automation layer: Airflow runs every layer on schedule, collecting, cleaning, refreshing the warehouse and AI index, updating every dashboard, and retrying and alerting on its own.">
+  <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=for-the-badge" alt="Data Pipelines">
+  <img src="https://img.shields.io/badge/Data_Warehousing-2563EB?style=for-the-badge" alt="Data Warehousing">
+  <img src="https://img.shields.io/badge/Data_Modeling-1D4ED8?style=for-the-badge" alt="Data Modeling">
+  <img src="https://img.shields.io/badge/ETL_%2F_ELT-0EA5E9?style=for-the-badge" alt="ETL / ELT">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="LLMs">
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/AI_Agents-A855F7?style=for-the-badge" alt="AI Agents">
+  <img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge" alt="NLP">
+  <img src="https://img.shields.io/badge/Automation-D97706?style=for-the-badge" alt="Automation">
+  <img src="https://img.shields.io/badge/Supply_Chain-0F766E?style=for-the-badge" alt="Supply Chain">
+  <img src="https://img.shields.io/badge/Power_BI-CA8A04?style=for-the-badge" alt="Power BI">
 </p>
 
-## 📦 Business solutions
-
-The six areas behind the ecosystem. Hire me for one task in one area, or for the whole ecosystem.
-
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="80" alt="Python">
-<br><b>Data engineering</b>
-<br><sub>Collect → Clean → Model</sub>
-<br><br>One clean, trusted source for all your data.
-<br><br><code>Pipelines</code> <code>Data warehouse</code> <code>Business logic</code>
-</td>
-<td align="center" width="33%" valign="top">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="80" alt="Apache Spark">
-<br><b>Big data</b>
-<br><sub>Stream → Process → Scale</sub>
-<br><br>Years of history and live events, processed fast.
-<br><br><code>Spark</code> <code>Kafka</code> <code>Databricks</code>
-</td>
-<td align="center" width="33%" valign="top">
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="80" alt="AI assistant robot">
-<br><b>AI agents and chatbots</b>
-<br><sub>Ask → Reason → Act</sub>
-<br><br>LLM agents that answer from your data and do the work.
-<br><br><code>LLMs</code> <code>AI agents</code> <code>Chatbots</code>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%" valign="top">
-<img src="https://cdn.simpleicons.org/langchain/2DD4BF" height="80" alt="LangChain">
-<br><b>RAG systems</b>
-<br><sub>Parse → Index → Answer</sub>
-<br><br>Answers from your documents, with the source quoted.
-<br><br><code>RAG</code> <code>Vector search</code> <code>Document pipelines</code>
-</td>
-<td align="center" width="33%" valign="top">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" height="80" alt="Gears">
-<br><b>Automation</b>
-<br><sub>Schedule → Run → Alert</sub>
-<br><br>Zero-touch pipelines that run themselves on Airflow.
-<br><br><code>Airflow</code> <code>Python</code> <code>Zero-touch</code>
-</td>
-<td align="center" width="33%" valign="top">
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="80" alt="Moving chart">
-<br><b>Data analysis</b>
-<br><sub>Measure → Explain → Decide</sub>
-<br><br>Dashboards that show what sells, what earns and what to fix.
-<br><br><code>Power BI</code> <code>DAX</code> <code>Excel</code>
-</td>
-</tr>
-</table>
-
-## 🏭 Industries
-
-Built for small and mid-size businesses. Pick yours and see where to start.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>🛍️ E-commerce</b>
-<br><i>Every order, margin and customer in one view.</i>
-<br><br>Your store, marketplaces and ads in one dashboard, and an assistant that answers "where is my order?" day and night.
-<br><br>Start with: <b>Reporting Automation</b>
-</td>
-<td width="33%" valign="top">
-<b>🏬 Retail chains</b>
-<br><i>One truth across every branch.</i>
-<br><br>Sales, stock and cash from every branch in one place, with alerts before your best sellers run out.
-<br><br>Start with: <b>Retail BI and Reporting Platform</b>
-</td>
-<td width="33%" valign="top">
-<b>🧾 Suppliers to big retailers</b>
-<br><i>Stop losing money to deductions.</i>
-<br><br>Every deduction matched to its invoice, with the ones worth disputing flagged before the window closes. This is what I build with Argus at Null Labs AI Inc. in the United States.
-<br><br>Start with: <b>Invoice Data Automation</b>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<b>📦 Distribution and wholesale</b>
-<br><i>Daily operations that run themselves.</i>
-<br><br>Orders, stock checks and supplier follow-ups run on schedule, and your team only sees what needs a decision.
-<br><br>Start with: <b>Business Process Automation</b>
-</td>
-<td width="33%" valign="top">
-<b>🚚 Logistics and supply chain</b>
-<br><i>See late and short deliveries before the shelf is empty.</i>
-<br><br>Supplier scorecards, on-time-in-full tracking and live shipment events in one place.
-<br><br>Start with: <b>Supplier Scorecard</b>
-</td>
-<td width="33%" valign="top">
-<b>🔧 Car service and workshops</b>
-<br><i>Years of job cards turned into answers.</i>
-<br><br>Invoices and job files cleaned into one warehouse, with dashboards per branch and an assistant for prices and history. I built this for a Bosch Car Service center.
-<br><br>Start with: <b>Data Warehouse and Reporting Foundation</b>
-</td>
-</tr>
-</table>
-
-## 🛒 Products and tasks
-
-Start with one small task, or buy a complete system. Every offer has a fixed scope and a fixed price before work starts.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>🔄 Reporting Automation</b>
-<br><sub>Automation</sub>
-<br><br>The report someone rebuilds by hand every week now builds and sends itself.
-<br><br>✔️ Automatic collection from your files and systems
-<br>✔️ Your business rules applied every time
-<br>✔️ A Power BI report with a scheduled refresh
-<br><br><b>Best for:</b> managers and finance teams stuck in download, copy, paste and email.
-<br><br><code>Python</code> <code>Airflow</code> <code>Power BI</code>
-</td>
-<td width="33%" valign="top">
-<b>📄 Invoice Data Automation</b>
-<br><sub>AI · Builds on Reporting Automation</sub>
-<br><br>Invoices and PDFs read, checked against your rules and loaded with no typing.
-<br><br>✔️ PDFs and scans read automatically
-<br>✔️ Every line checked against orders and receipts
-<br>✔️ A Power BI view of every mismatch
-<br><br><b>Best for:</b> distributors, retailers and procurement or accounting teams.
-<br><br><code>Document AI</code> <code>OCR</code> <code>SQL</code>
-</td>
-<td width="33%" valign="top">
-<b>🤖 Customer Support Agent</b>
-<br><sub>AI</sub>
-<br><br>Order questions answered day and night, and every hand-off reaches your team with the full conversation.
-<br><br>✔️ A website or WhatsApp agent connected to your real orders
-<br>✔️ Returns and refunds started within limits you set
-<br>✔️ Hand-off to a person with the full conversation
-<br><br><b>Best for:</b> e-commerce stores and distributors with busy support inboxes.
-<br><br><code>AI agents</code> <code>LLMs</code> <code>WhatsApp</code>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<b>📊 Retail BI and Reporting Platform</b>
-<br><sub>Data engineering · Builds on Reporting Automation</sub>
-<br><br>Sales, inventory, purchasing and customers in one warehouse, with dashboards that refresh every morning.
-<br><br>✔️ Pipelines from every source into one warehouse
-<br>✔️ A star-schema model with your business rules
-<br>✔️ Power BI dashboards that refresh every morning
-<br><br><b>Best for:</b> multi-branch retailers and e-commerce businesses.
-<br><br><code>Airflow</code> <code>dbt</code> <code>Power BI</code>
-</td>
-<td width="33%" valign="top">
-<b>🧠 AI and Data Business Platform</b>
-<br><sub>AI · Builds on Retail BI and Reporting Platform</sub>
-<br><br>Your whole data platform, with LLM chatbots and AI agents that read the same pipelines and answer from your data and documents.
-<br><br>✔️ Everything in the BI platform, with big data on Spark and Kafka
-<br>✔️ A RAG chatbot over your documents, with sources
-<br>✔️ AI agents that act on live data with your approval
-<br><br><b>Best for:</b> growing companies with large data volumes and many documents.
-<br><br><code>Spark</code> <code>RAG</code> <code>AI agents</code>
-</td>
-<td width="33%" valign="top">
-<b>⚡ Popular tasks</b>
-<br><sub>Small fixed-price jobs. A good way to start working together.</sub>
-<br><br>• Power BI dashboard from your Excel or SQL data
-<br>• Clean messy Excel or CSV data
-<br>• Fix a slow or wrong Power BI report
-<br>• DAX measures and KPIs for your Power BI report
-<br>• Excel dashboard with pivot tables and slicers
-<br>• Automate a weekly Excel report
-<br>• Star-schema data model for Power BI
-<br>• Sales, stock or customer analysis with clear findings
-</td>
-</tr>
-</table>
-
-## 🚀 How we work together
-
-A fixed price before any work starts, and working results you can see every week.
-
-<table>
-<tr>
-<td width="25%" valign="top"><b>01 · Free call</b><br><br>15 minutes on your data, the problem and the decision you need to make.</td>
-<td width="25%" valign="top"><b>02 · Plan and fixed price</b><br><br>A written plan with one price for an agreed scope. The plan is yours to keep either way.</td>
-<td width="25%" valign="top"><b>03 · Build with demos</b><br><br>You see working results every week and steer the work as it grows.</td>
-<td width="25%" valign="top"><b>04 · Handover and support</b><br><br>Documentation, training and a runbook so your team runs it, with support after launch.</td>
-</tr>
-</table>
-
-## ⭐ Business impact
+## 🔍 The problem
 
 <p align="center">
-  <img width="100%" src="assets/featured.svg" alt="Business impact. Argus, by Null Labs AI Inc.: every retailer deduction matched, explained and ready to dispute. It collects every Walmart invoice, payment and deduction daily, matches each one to the cent in a PostgreSQL warehouse, classifies it with a rules knowledge base, drafts disputes with LLM agents and a RAG assistant, and shows what to recover, prevent or accept by filing deadline. Waha Bosch Auto Service, a Bosch Car Service center: about 47,000 workshop Excel files turned into one source of truth and an AI assistant, with a self-refreshing warehouse, names matched across Arabic and English, Power BI branch dashboards and cleaner Excel templates.">
+  <img width="100%" src="assets/before-after.svg" alt="Before: reports rebuilt by hand, scattered data, answers buried in documents, copy-paste work. After: self-refreshing dashboards, one trusted warehouse, an AI assistant that cites its sources, workflows that run on their own.">
+</p>
+
+## 🧠 The idea, in 6 steps
+
+<p align="center">
+  <img width="100%" src="assets/mental-model.svg" alt="From messy data to results in 6 steps, like a restaurant kitchen: 1 Collect, groceries arrive (data pipelines); 2 Clean, wash and chop (ETL and data quality); 3 Organize, a labeled pantry (warehouse and data modeling); 4 Ask, ask the chef anything (RAG, AI agents and NLP); 5 Act, service runs itself (automation with Airflow); 6 See, see what sells (Power BI and Excel).">
+</p>
+
+## 📦 What I deliver
+
+<p align="center">
+  <img width="100%" src="assets/products.svg" alt="Six ready-made solutions built from the 6 steps: Data Warehouse Launch, Executive KPI Dashboard, AI Knowledge Assistant, AI Document Agent, Workflow Automation and Feedback Intelligence, each with the pain it removes and the result it delivers.">
+</p>
+
+<p align="center">
+  <b>Built for:</b>&nbsp;
+  <img src="https://img.shields.io/badge/Finance-1E293B?style=flat-square" alt="Finance">
+  <img src="https://img.shields.io/badge/Sales_and_e--commerce-1E293B?style=flat-square" alt="Sales and e-commerce">
+  <img src="https://img.shields.io/badge/Supply_chain_and_operations-1E293B?style=flat-square" alt="Supply chain and operations">
+  <img src="https://img.shields.io/badge/Customer_service-1E293B?style=flat-square" alt="Customer service">
+  <img src="https://img.shields.io/badge/HR-1E293B?style=flat-square" alt="HR">
+  <img src="https://img.shields.io/badge/Leadership-1E293B?style=flat-square" alt="Leadership">
+</p>
+
+## ⭐ Featured projects
+
+<p align="center">
+  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, by Null Labs AI Inc.: every retailer deduction matched, explained and ready to dispute. It collects every Walmart invoice, payment and deduction daily, matches each one to the cent in a PostgreSQL warehouse, classifies it with a rules knowledge base, drafts disputes with LLM agents and a RAG assistant, and shows what to recover, prevent or accept by filing deadline. Waha Bosch Auto Service, a Bosch Car Service center: about 47,000 workshop Excel files turned into one source of truth and an AI assistant, with a self-refreshing warehouse, names matched across Arabic and English, Power BI branch dashboards and cleaner Excel templates.">
 </p>
 
 <p align="center"><a href="https://null-labs.io/">See Argus, the product →</a></p>
 
-## 🙋 Who you'll work with
+## 🚀 How we work together
 
-I'm Omar Shalaby, an AI and data engineer in Cairo. I build the whole chain: pipelines that collect and clean your data, the warehouse and business rules that make it trustworthy, big data processing when volume demands it, and the Power BI dashboards and AI agents your team uses every day.
+<p align="center">
+  <img width="100%" src="assets/process.svg" alt="How a project runs: 01 Discover your data, pains and key decisions; 02 Design the architecture and a scoped plan; 03 Build working results early with regular demos; 04 Hand over with documentation, training and support.">
+</p>
 
-I currently build Argus at Null Labs AI Inc., a company based in the United States, and take on client projects in Egypt, the Gulf and worldwide. Every project starts with one question: which decision do you need to make?
+## 💡 Why me
 
-- ✅ **One engineer, end to end:** from raw data to AI and dashboards, so nothing gets lost between vendors.
-- ✅ **Built to keep running:** tested, monitored and documented, with a runbook your team can follow.
-- ✅ **AI you can check:** every chatbot and agent is tested on your real questions before handover and shows where each answer came from.
-- ✅ **Yours to keep:** the code, the data and the documentation belong to your company.
+- ✅ **Production-grade, not demos:** tested, monitored and documented to run every day.
+- ✅ **End to end:** one engineer from raw data to AI, automation and dashboards.
+- ✅ **Business first:** I start from the decision you need to make, then pick the tools.
+- ✅ **You own it:** clean code and documentation your team can run without me.
 
-## ❓ Questions clients ask
+## 🎯 Areas of expertise
 
-<details><summary><b>We're a small business. Is this for us?</b></summary><br>If your team loses hours every week moving data by hand or arguing over numbers, yes. The free call tells you whether a project would pay off before you spend anything.</details>
-<details><summary><b>Do we have to replace the tools we use now?</b></summary><br>Usually not. I connect to what you already have, such as your ERP, Excel files, Shopify or marketplace exports, and build on top.</details>
-<details><summary><b>What does it cost?</b></summary><br>Every job gets one fixed price for an agreed scope, quoted after the free call and before any work starts.</details>
-<details><summary><b>How long does it take?</b></summary><br>It depends on the scope. The written plan gives you the timeline before any work starts, and you see progress every week.</details>
-<details><summary><b>Can you handle large data volumes?</b></summary><br>Yes. For high-volume or streaming data I build on Spark, Kafka and Databricks. For most businesses a well-modeled warehouse is faster and cheaper, and I will tell you which one you need.</details>
-<details><summary><b>Is our data safe?</b></summary><br>I work inside your own accounts and sign an NDA on request.</details>
-<details><summary><b>Who owns the work?</b></summary><br>You own the code, the data and the documentation.</details>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100" alt="AI assistant robot">
+<br><b>AI Engineering</b>
+<br><br>LLMs • RAG • AI Agents<br>NLP • LangChain • LangGraph
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Python">
+<br><b>Data Engineering</b>
+<br><br>Pipelines • Airflow • dbt<br>Warehousing • Data Modeling • Spark
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="100" alt="Gears">
+<br><b>Automation</b>
+<br><br>Airflow workflows • Playwright<br>Selenium • API integrations
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100" alt="Moving chart">
+<br><b>BI and Analytics</b>
+<br><br>Power BI • DAX • Power Query<br>Excel • Streamlit
+</td>
+</tr>
+</table>
+</div>
 
 ## 🧩 Under the hood
 
-For technical readers: the tools behind the system, and every skill.
+For technical readers: the same 6 steps as a system, the tools behind it, and every skill.
+
+<p align="center">
+  <img width="100%" src="assets/architecture.svg" alt="The system I build, bottom to top: sources feed the data layer (steps 1 to 3: collect, clean, organize); the data layer feeds the AI layer (step 4: ask) and the insight layer (step 6: see); both feed the automation layer (step 5: act); everything delivers business outcomes.">
+</p>
 
 ### 💻 Tech stack
 
@@ -491,20 +342,18 @@ current_focus = {
 }
 ```
 
-## 🤝 Ready to stop chasing numbers?
+## 🤝 Let's work together
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150" alt="Fire">
 </p>
 
-<p align="center">Book a free 15-minute call. You'll leave knowing the one change that would save you the most, with a fixed price if you want me to build it.</p>
+<p align="center"><b>Ready to stop doing work by hand?</b></p>
 
 <p align="center">
-  <a href="mailto:omarshalaby.data@gmail.com?subject=Free%2015-minute%20call"><img src="https://img.shields.io/badge/Book_my_free_call-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Book my free call"></a>
+  <a href="mailto:omarshalaby.data@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email me"></a>
   <a href="https://www.linkedin.com/in/omarshalaby1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
 </p>
-
-<p align="center"><i>Hiring for a full-time or contract role? Get in touch.</i></p>
 
 <p align="center">
   <picture>
