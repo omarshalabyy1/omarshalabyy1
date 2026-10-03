@@ -78,6 +78,35 @@
 - ✅ **Business first:** I start from the decision you need to make, then pick the tools.
 - ✅ **You own it:** clean code and documentation your team can run without me.
 
+## 🎯 Areas of expertise
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100" alt="AI assistant robot">
+<br><b>AI Engineering</b>
+<br><br>LLMs • RAG • AI Agents<br>NLP • LangChain • LangGraph
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Python">
+<br><b>Data Engineering</b>
+<br><br>Pipelines • Airflow • dbt<br>Warehousing • Data Modeling • Spark
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="100" alt="Gears">
+<br><b>Automation</b>
+<br><br>Airflow workflows • Playwright<br>Selenium • API integrations
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100" alt="Moving chart">
+<br><b>BI and Analytics</b>
+<br><br>Power BI • DAX • Power Query<br>Excel • Streamlit
+</td>
+</tr>
+</table>
+</div>
+
 ## 🧩 Under the hood
 
 For technical readers: the same 6 steps as a system, the tools behind it, and every skill.
@@ -87,6 +116,10 @@ For technical readers: the same 6 steps as a system, the tools behind it, and ev
 </p>
 
 ### 💻 Tech stack
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Code">
+</p>
 
 <h4 align="center">🗄️ Languages and databases</h4>
 <p align="center">
@@ -292,13 +325,39 @@ For technical readers: the same 6 steps as a system, the tools behind it, and ev
 
 </details>
 
+## 💡 What I'm up to
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400" alt="Developer at work">
+
+```python
+current_focus = {
+    "building": ["Retail supply chain data platform (Airflow + PostgreSQL)",
+                 "Power BI dashboards for automotive service branches"],
+    "deepening": ["Production RAG and AI agents", "LLM evaluation and LLMOps",
+                  "Model Context Protocol (MCP)"],
+    "open_to": "Full-time, contract and project work as an AI & Data Engineer",
+    "goal": "Data systems that run themselves",
+}
+```
+
 ## 🤝 Let's work together
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150" alt="Fire">
+</p>
 
 <p align="center"><b>Ready to stop doing work by hand?</b></p>
 
 <p align="center">
   <a href="mailto:omarshalaby.data@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email me"></a>
   <a href="https://www.linkedin.com/in/omarshalaby1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omarshalabyy1/omarshalabyy1/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/omarshalabyy1/omarshalabyy1/output/github-snake.svg" alt="A snake eating my GitHub contribution graph">
+  </picture>
 </p>
 
 <p align="center">
