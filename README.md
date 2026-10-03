@@ -118,10 +118,10 @@
 
 ## 🧩 Under the hood
 
-For technical readers: the same 6 steps as a system, the tools behind it, and every skill.
+For technical readers: your data, your AI, one system, the tools behind it, and every skill.
 
 <p align="center">
-  <img width="100%" src="assets/architecture.svg" alt="The system I build, bottom to top: sources feed the data layer (steps 1 to 3: collect, clean, organize); the data layer feeds the AI layer (step 4: ask) and the insight layer (step 6: see); both feed the automation layer (step 5: act); everything delivers business outcomes.">
+  <img width="100%" src="assets/ecosystem.svg" alt="Your data. Your AI. One system. Four layers, top to bottom: 01 Your data, wherever it lives today (Excel and CSV, POS and ERP, store and marketplace exports, APIs, PDFs and documents); 02 Data engineering layer (pipelines, cleaning, business rules, data warehouse, big data); 03 AI layer (RAG over your documents, LLM chatbots, AI agents, document AI); 04 Data analysis layer (Power BI dashboards, KPI reports, chat on web and WhatsApp, alerts). Beside them, the automation layer: Airflow runs every layer on schedule, collecting, cleaning, refreshing the warehouse and AI index, updating every dashboard, and retrying and alerting on its own.">
 </p>
 
 ### 💻 Tech stack
