@@ -62,8 +62,10 @@
 ## ⭐ Featured projects
 
 <p align="center">
-  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, data engineering and AI: a retail supply chain platform that recovers supplier deduction losses with a daily Airflow pipeline, a PostgreSQL bronze, silver and gold warehouse, reconciliation to the cent and a rules knowledge base. Bosch Car Service, data analysis and BI developer: branch performance analysis and Power BI dashboards for every branch on a star-schema model with DAX KPIs, fed by daily branch reports loaded to SQL Server.">
+  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, by Null Labs AI Inc.: every retailer deduction matched, explained and ready to dispute. It collects every Walmart invoice, payment and deduction daily, matches each one to the cent in a PostgreSQL warehouse, classifies it with a rules knowledge base, drafts disputes with LLM agents and a RAG assistant, and shows what to recover, prevent or accept by filing deadline. Waha Bosch Auto Service, a Bosch Car Service center: about 47,000 workshop Excel files turned into one source of truth and an AI assistant, with a self-refreshing warehouse, names matched across Arabic and English, Power BI branch dashboards and cleaner Excel templates.">
 </p>
+
+<p align="center"><a href="https://null-labs.io/">See Argus, the product →</a></p>
 
 ## 🚀 How we work together
 
@@ -331,8 +333,8 @@ For technical readers: the same 6 steps as a system, the tools behind it, and ev
 
 ```python
 current_focus = {
-    "building": ["Retail supply chain data platform (Airflow + PostgreSQL)",
-                 "Power BI dashboards for automotive service branches"],
+    "building": ["Argus: every Walmart deduction matched, explained and ready to dispute",
+                 "One source of truth and an AI assistant for a car-service business"],
     "deepening": ["Production RAG and AI agents", "LLM evaluation and LLMOps",
                   "Model Context Protocol (MCP)"],
     "open_to": "Full-time, contract and project work as an AI & Data Engineer",
