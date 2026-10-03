@@ -17,6 +17,13 @@
 <p align="center"><b>Domain expertise:</b> retail supply chain (supplier invoicing, purchase orders, retailer deductions, freight and logistics charges) and automotive service operations.</p>
 
 <p align="center">
+  <sub><b>WORKED WITH</b></sub><br><br>
+  <img src="assets/logos/null-labs.png" height="48" alt="Null Labs AI Inc." title="Null Labs AI Inc.">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bosch/EA0016" height="56" alt="Bosch Car Service" title="Bosch Car Service">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logos/waha-bosch.png" height="64" alt="Waha Bosch Auto Service" title="Waha Bosch Auto Service">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=for-the-badge" alt="Data Pipelines">
   <img src="https://img.shields.io/badge/Data_Warehousing-2563EB?style=for-the-badge" alt="Data Warehousing">
   <img src="https://img.shields.io/badge/Data_Modeling-1D4ED8?style=for-the-badge" alt="Data Modeling">
