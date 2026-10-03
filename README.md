@@ -19,7 +19,7 @@
 <p align="center">
   <sub><b>WORKED WITH</b></sub><br><br>
   <img src="assets/logos/null-labs.png" height="48" alt="Null Labs AI Inc." title="Null Labs AI Inc.">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bosch/EA0016" height="56" alt="Bosch Car Service" title="Bosch Car Service">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logos/bosch-service.png" height="64" alt="Bosch Service" title="Bosch Service">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/waha-bosch.png" height="64" alt="Waha Bosch Auto Service" title="Waha Bosch Auto Service">
 </p>
 
