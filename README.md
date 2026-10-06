@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="mailto:omarshalaby.data@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email me"></a>
+  <a href="https://omarlabs.dev"><img src="https://img.shields.io/badge/Website-omarlabs.dev-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: omarlabs.dev"></a>
   <a href="https://www.linkedin.com/in/omarshalaby1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
   <img src="https://img.shields.io/badge/Based_in-Cairo,_Egypt-2C5364?style=for-the-badge" alt="Based in Cairo, Egypt">
 </p>
@@ -359,6 +360,7 @@ current_focus = {
 
 <p align="center">
   <a href="mailto:omarshalaby.data@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project: email me"></a>
+  <a href="https://omarlabs.dev"><img src="https://img.shields.io/badge/Website-omarlabs.dev-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: omarlabs.dev"></a>
   <a href="https://www.linkedin.com/in/omarshalaby1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
 </p>
 
