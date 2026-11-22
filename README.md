@@ -72,7 +72,7 @@
 ## ⭐ Featured projects
 
 <p align="center">
-  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, by Null Labs AI Inc.: Walmart deductions matched to the cent in a layered PostgreSQL warehouse, classified by rules, with dashboards sorted by deadline. Waha Bosch Auto Service: 50,000+ files into one self-refreshing warehouse, names matched across spellings, branch KPIs in Power BI.">
+  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, by Null Labs AI Inc.: one layered PostgreSQL warehouse, loaded daily from Walmart, feeds four systems: deductions and disputes, a PO tracker, reconciliation to the cent, and prevention of repeat causes. Waha Bosch Auto Service: 50,000+ files into one self-refreshing warehouse, names matched across spellings, branch KPIs in Power BI.">
 </p>
 
 <p align="center"><a href="https://null-labs.io/">See Argus, the product →</a></p>
