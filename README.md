@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge" alt="Apache Airflow">
   <img src="https://img.shields.io/badge/Data_Quality-0F766E?style=for-the-badge" alt="Data Quality">
   <img src="https://img.shields.io/badge/Power_BI-CA8A04?style=for-the-badge" alt="Power BI">
-  <img src="https://img.shields.io/badge/Data_Warehousing-0EA5E9?style=for-the-badge" alt="Data Warehousing">
+  <img src="https://img.shields.io/badge/Data_Solutions-0EA5E9?style=for-the-badge" alt="Data Solutions">
   <img src="https://img.shields.io/badge/Automation-D97706?style=for-the-badge" alt="Automation">
   <img src="https://img.shields.io/badge/Supply_Chain-334155?style=for-the-badge" alt="Supply Chain">
 </p>
