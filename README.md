@@ -72,10 +72,10 @@
 ## ⭐ Featured projects
 
 <p align="center">
-  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, by Null Labs AI Inc.: every retailer deduction matched, explained and ready to dispute. It collects every Walmart invoice, payment and deduction daily, matches each one to the cent in a PostgreSQL warehouse, classifies it with a rules knowledge base, and shows what to recover, prevent or accept by filing deadline. Waha Bosch Auto Service, a Bosch Car Service center: 50,000+ workshop Excel files turned into one source of truth, with a self-refreshing warehouse, names matched across every spelling, Power BI branch dashboards and cleaner Excel templates. Own project, order-to-cash analytics on a SAP extract: pandas exploration, a 5-layer SQL warehouse on DuckDB with 43 data checks and a Power BI report that shows 16,050 EUR waiting between order and cash.">
+  <img width="100%" src="assets/featured.svg" alt="Featured projects. Argus, by Null Labs AI Inc.: every retailer deduction matched, explained and ready to dispute. It collects every Walmart invoice, payment and deduction daily, matches each one to the cent in a PostgreSQL warehouse, classifies it with a rules knowledge base, and shows what to recover, prevent or accept by filing deadline. Waha Bosch Auto Service, a Bosch Car Service center: 50,000+ workshop Excel files turned into one source of truth, with a self-refreshing warehouse, names matched across every spelling, Power BI branch dashboards and cleaner Excel templates.">
 </p>
 
-<p align="center"><a href="https://null-labs.io/">See Argus, the product →</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/omarshalabyy1/henkel-o2c-case-study">See the order-to-cash case study →</a></p>
+<p align="center"><a href="https://null-labs.io/">See Argus, the product →</a></p>
 
 ## 🚀 How we work together
 
