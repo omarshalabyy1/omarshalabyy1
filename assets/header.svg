@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Omar Shalaby, AI and Data Engineer: LLMs, RAG, AI agents and automation. A terminal runs a pipeline that ingests sources, embeds documents and runs an agent.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Omar Shalaby, Data Analytics Engineering | BI Developer: data warehousing, SQL, data modeling, dbt, pipelines, Airflow, Power BI and data quality. A terminal runs a pipeline that ingests sources, builds the models and runs the data checks.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B1220"/>
@@ -39,16 +39,16 @@
   <circle cx="114" cy="84" r="6" fill="#28C840"/>
   <text x="72" y="120" class="mono" fill="#5EEAD4">$ python run_pipeline.py</text>
   <text x="72" y="145" class="mono" fill="#C4B5FD">-&gt; ingest(sources)</text>
-  <text x="72" y="168" class="mono" fill="#C4B5FD">-&gt; embed(documents)</text>
-  <text x="72" y="191" class="mono" fill="#C4B5FD">-&gt; agent.run(task)</text>
+  <text x="72" y="168" class="mono" fill="#C4B5FD">-&gt; build(models)</text>
+  <text x="72" y="191" class="mono" fill="#C4B5FD">-&gt; test(data_checks)</text>
   <text x="72" y="214" class="mono" fill="#4ADE80">[ok] 0 manual steps</text>
   <rect x="230" y="202" width="9" height="16" fill="#4ADE80" class="blink"/>
 
   <!-- Name -->
   <text x="430" y="135" class="sans" font-size="46" font-weight="700" fill="#FFFFFF">Omar Shalaby</text>
-  <text x="432" y="172" class="sans" font-size="20" font-weight="600" fill="#5EEAD4">AI &amp; Data Engineer</text>
-  <text x="432" y="200" class="sans" font-size="15" fill="#CBD5E1">Data Pipelines &#183; Data Warehousing &#183; Data Modeling</text>
-  <text x="432" y="224" class="sans" font-size="15" fill="#CBD5E1">LLMs &#183; RAG &#183; AI Agents &#183; NLP &#183; Automation</text>
+  <text x="432" y="172" class="sans" font-size="20" font-weight="600" fill="#5EEAD4">Data Analytics Engineering | BI Developer</text>
+  <text x="432" y="200" class="sans" font-size="15" fill="#CBD5E1">Data Warehousing &#183; SQL &#183; Data Modeling &#183; dbt</text>
+  <text x="432" y="224" class="sans" font-size="15" fill="#CBD5E1">Pipelines &#183; Airflow &#183; Power BI &#183; Data Quality</text>
 
   <!-- Network mark -->
   <g class="pulse" stroke="#5EEAD4" stroke-opacity="0.8" stroke-width="1.6">

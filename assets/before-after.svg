@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Before: reports rebuilt by hand, scattered data, answers buried in documents, copy-paste work. After: self-refreshing dashboards, one trusted warehouse, an AI assistant that cites sources, workflows that run on their own.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Before: reports rebuilt by hand, scattered data, reports that never agree, copy-paste work. After: self-refreshing dashboards, one trusted warehouse, every number checked before it reaches a report, workflows that run on their own.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B1220"/>
@@ -31,7 +31,7 @@
   </g>
   <text x="86" y="110" class="item">Reports rebuilt by hand every week</text>
   <text x="86" y="152" class="item">Data scattered across disconnected tools</text>
-  <text x="86" y="194" class="item">Answers buried in PDFs and inboxes</text>
+  <text x="86" y="194" class="item">Reports that never show the same total</text>
   <text x="86" y="236" class="item">Hours lost to copy-paste work</text>
 
   <!-- Arrow -->
@@ -55,6 +55,6 @@
   </g>
   <text x="536" y="110" class="item">Dashboards that refresh themselves</text>
   <text x="536" y="152" class="item">One warehouse everyone trusts</text>
-  <text x="536" y="194" class="item">An AI assistant that cites its sources</text>
+  <text x="536" y="194" class="item">Every number checked before reports</text>
   <text x="536" y="236" class="item">Workflows that run on their own</text>
 </svg>
